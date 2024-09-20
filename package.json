@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "node-sass": "^9.0.0"
+  },
+  "scripts" : {
+    "node-sass": "node-sass --output-style compressed -o css/style1.css sass/main.scss --recursive"
+  }
+}
